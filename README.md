@@ -21,3 +21,5 @@ test refactoring
 test github posting
 
 test saving headers
+
+check github event types
