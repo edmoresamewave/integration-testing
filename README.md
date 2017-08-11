@@ -38,6 +38,8 @@ test adding comment again again
 
 test processed flag is updated
 
+
+
 test comment created with correct message
 
 more updates ...
@@ -64,3 +66,5 @@ commit 2
 test refactoring again and again and again
 
 revert and retest
+
+test refactoring
