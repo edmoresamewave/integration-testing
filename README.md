@@ -35,3 +35,5 @@ test comment creation again
 test adding another worker again
 
 test adding comment again again
+
+test processed flag is updated
