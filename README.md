@@ -40,4 +40,4 @@ test processed flag is updated
 
 test comment created with correct message
 
-more updates
+more updates ...
